@@ -5,8 +5,8 @@
     Original code and ASCII art by Dr. Jan Pearce, Berea College
 
     Edits made by:
-    TODO: <Add name of student 1 Here> -- to be added by student 1
-    TODO: <Add name of student 2 Here> -- to be added by student 2
+    Eber Seco Lima
+    Mohanad Elagan
     TODO: <Add name of student 3 Here> -- to be added by student 3 (if relevant otherwise, student 2 should remove this line)
  */
 #include <iostream>
@@ -25,7 +25,25 @@ int main() {
         cout << "                __     " << endl; // TODO: student 1 may change this line and may add additional lines immediately above
         cout << "              <(o )___-" << endl; // student 3(1) may change this line and add additional lines between this line and immediately below
         cout << "               ( .__> /" << endl; // student 3(2) may change this line
-        cout << "                `----' " << endl; // TODO student 2 may change this line and may add lines below
+		cout << "           _____________________________________ " << endl;
+		cout << "         //_________________(o)_________________\\ " << endl;
+		cout << endl;
+		cout << "         ||                                     || " << endl;
+		cout << "         || > Welcome to CSC 236!               || " << endl;
+		cout << "            > We're happy you are here" << endl;
+		cout << "         || > and hope you enjoy the course!    || " << endl;
+		cout << "            >  - Your Prof and the TAs" << endl;
+		cout << "         ||                                     || " << endl;
+		cout << endl;
+		cout << "         ||_____________________________________|| " << endl;
+		cout << "        /_______________________________________ \\ " << endl;
+		cout << "       /_| _| _| _| _| _| _| _| _| _| _| _| _| _| \\ " << endl;
+		cout << "      /____| _| _| _| _| _| _| _| _| _| _| _| ___| \\ " << endl;
+		cout << "     /___| _| _| _| _| _| _| _| _| _| _| _| _| ___| \\ " << endl;
+		cout << "    /__| _| _| _| _| _| _| _| _| _| _| _| _| _| ___  \\ " << endl;
+		cout << "   /_| _| _| _| _|______________________|  _| _|_|_|  \\ " << endl;
+		cout << "  /________________/                  \\________________\\ " << endl;
+		cout << " (________________/____________________\\_______________) " << endl;
     }
 
     return 0;
